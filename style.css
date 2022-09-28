@@ -41,12 +41,7 @@ body{
   flex: auto;
   display: flex;
 }
-.operators{
-  display: flex;
-  flex-direction: column;
-}
 button{
   width:32px;
-  height: auto;
   flex: auto;
 }
