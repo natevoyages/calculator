@@ -7,6 +7,11 @@ body{
   align-items: center;
 
 }
+
+.header{
+  color: whitesmoke;
+  font-size: large;
+}
 .content{
   display: flex;
   align-items: center;
@@ -17,7 +22,7 @@ body{
 }
 .display{
   background-color: whitesmoke;
-  border: 2px solid black;
+  border: 4px solid black;
   display: flex;
  justify-content: end;
  align-items: center;
@@ -26,7 +31,7 @@ body{
 }
 .keys{
   background-color: aliceblue;
-  border: 2px solid black;
+  border: 4px solid black;
   width: 200px;
   height: 200px;
   display: flex;
